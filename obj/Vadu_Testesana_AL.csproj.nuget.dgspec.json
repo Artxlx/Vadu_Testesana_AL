@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mojo\\Documents\\Bakalaurs\\Vadu_Testesana_AL\\Vadu_Testesana_AL.csproj": {}
+    "C:\\Users\\litsi\\Documents\\Bakalaurs\\Vadu_Testesana_AL\\Vadu_Testesana_AL\\Vadu_Testesana_AL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mojo\\Documents\\Bakalaurs\\Vadu_Testesana_AL\\Vadu_Testesana_AL.csproj": {
+    "C:\\Users\\litsi\\Documents\\Bakalaurs\\Vadu_Testesana_AL\\Vadu_Testesana_AL\\Vadu_Testesana_AL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mojo\\Documents\\Bakalaurs\\Vadu_Testesana_AL\\Vadu_Testesana_AL.csproj",
+        "projectUniqueName": "C:\\Users\\litsi\\Documents\\Bakalaurs\\Vadu_Testesana_AL\\Vadu_Testesana_AL\\Vadu_Testesana_AL.csproj",
         "projectName": "Vadu_Testesana_AL",
-        "projectPath": "C:\\Users\\Mojo\\Documents\\Bakalaurs\\Vadu_Testesana_AL\\Vadu_Testesana_AL.csproj",
-        "packagesPath": "C:\\Users\\Mojo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mojo\\Documents\\Bakalaurs\\Vadu_Testesana_AL\\obj\\",
+        "projectPath": "C:\\Users\\litsi\\Documents\\Bakalaurs\\Vadu_Testesana_AL\\Vadu_Testesana_AL\\Vadu_Testesana_AL.csproj",
+        "packagesPath": "C:\\Users\\litsi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\litsi\\Documents\\Bakalaurs\\Vadu_Testesana_AL\\Vadu_Testesana_AL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Mojo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\litsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
